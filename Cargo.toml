@@ -1,0 +1,13 @@
+[package]
+name = "get_clip_img"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arboard = "2.1.0"
+image = "0.24.1"
+base64 = "0.13.0"
+curl = "0.4.43"
+tinyjson = "2.3.0"
+webbrowser = "0.6.0"
+soloud = "1.0.2"
